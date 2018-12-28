@@ -1,0 +1,24 @@
+[submodule "airhead"]
+	path = airhead
+	url = https://github.com/azmr/airhead
+[submodule "aura"]
+	path = aura
+	url = https://github.com/azmr/aura
+[submodule "awb"]
+	path = awb
+	url = https://github.com/azmr/awb
+[submodule "blit-fonts"]
+	path = blit-fonts
+	url = https://github.com/azmr/blit-fonts
+[submodule "colourblind"]
+	path = colourblind
+	url = https://github.com/azmr/colourblind
+[submodule "live_edit"]
+	path = live_edit
+	url = https://github.com/azmr/live_edit
+[submodule "mempal"]
+	path = mempal
+	url = https://github.com/azmr/mempal
+[submodule "sweet"]
+	path = sweet
+	url = https://github.com/azmr/sweet
