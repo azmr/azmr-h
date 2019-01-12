@@ -22,3 +22,6 @@
 [submodule "sweet"]
 	path = sweet
 	url = https://github.com/azmr/sweet
+[submodule "lout"]
+	path = lout
+	url = https://github.com/azmr/lout
